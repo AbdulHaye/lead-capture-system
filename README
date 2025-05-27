@@ -29,6 +29,14 @@ cd backend
 npm install
 npm start
 
+
+.env
+
+OPENAI_API_KEY=
+EMAIL_USER=
+EMAIL_PASS=
+WEBHOOK_URL=
+
 cd frontend
 npm install
 npm start
