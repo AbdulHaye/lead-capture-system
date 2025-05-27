@@ -24,4 +24,12 @@ A professional lead intake system with AI scoring and automation triggers, built
 ```bash
 git clone https://github.com/your-repo/lead-capture-system.git
 cd lead-capture-system
+
+cd backend
+npm install
+npm start
+
+cd frontend
+npm install
+npm start
 ```
