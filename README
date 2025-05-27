@@ -1,0 +1,27 @@
+# Lead Capture & AI Scoring System
+
+A professional lead intake system with AI scoring and automation triggers, built as part of a developer assignment.
+
+## Features
+
+- **Front-End**: React form with Bootstrap styling, validation, loading spinner, and user feedback.
+- **Back-End**: Node.js with Express, OpenAI integration for lead scoring, SQLite database with Sequelize.
+- **Automation**: Email notifications and webhook for high-quality leads.
+- **Error Handling**: Custom error handling with middleware.
+- **Input Validation**: Back-end validation with `express-validator`.
+
+## Prerequisites
+
+- Node.js (v16 or higher)
+- OpenAI API key
+- Gmail account for email notifications (or SMTP service)
+- Webhook testing service (e.g., webhook.site)
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-repo/lead-capture-system.git
+cd lead-capture-system
+```

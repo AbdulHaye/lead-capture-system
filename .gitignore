@@ -1,0 +1,21 @@
+# Ignore node_modules
+**/node_modules/
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# IDE config
+.vscode/
+.idea/
